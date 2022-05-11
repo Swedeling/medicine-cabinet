@@ -15,7 +15,7 @@
     session_start();
     $servername = "mysql.agh.edu.pl";
     $username = "telesins";
-    $password = "PWoHPsG1JofSzWm7";
+    $password = "********";
     $dbname = "telesins";
     $uzytkownik = $_SESSION["current_user"];
     $idapteczki = $_SESSION["current_apteczka"];
