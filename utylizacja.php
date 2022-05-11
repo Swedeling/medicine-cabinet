@@ -32,7 +32,7 @@
 
         $servername = "mysql.agh.edu.pl";
         $username = "telesins";
-        $password = "PWoHPsG1JofSzWm7";
+        $password = "*********";
         $dbname = "telesins";
 
         $conn = mysqli_connect($servername, $username, $password, $dbname);
