@@ -15,7 +15,7 @@
 <?php
     $servername = "mysql.agh.edu.pl";
     $username = "telesins";
-    $password = "PWoHPsG1JofSzWm7";
+    $password = "**********";
     $dbname = "telesins";
   
 
