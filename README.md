@@ -78,7 +78,7 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/cabinet.PNG" width="300"/>
     </p>
 </div>
@@ -86,7 +86,7 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 ## [Add medicine to your medicine cabinet](./dodajlek.php)
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/nowylek.PNG" width="200"/>
     </p>
 </div>
@@ -94,7 +94,7 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 ## [Take](./zazyj.php) or [dispose](./utylizuj.php) your medicine
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/zażyj.PNG" width="196"/>
         <img src ="docks/zutylizuj.PNG" width="200"/>
     </p>
@@ -105,7 +105,7 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 ## [History](./historia.php)
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/historia.PNG" width="245"/>
         <img src ="docks/filtrowanie.PNG" width="200"/>
     </p>
@@ -115,7 +115,7 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 ## [Expense report](./raport_kosztow.php)
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/raport.PNG" width="118"/>
         <img src ="docks/raport_szczeg.PNG" width="240"/>
     </p>
@@ -125,15 +125,15 @@ The entry of drugs into the medicine cabinet is based on the drug dictionary. In
 ## UML Use Case Diagram
 
 <div style="text-align:center">
-    <p float='left'>
-        <img src ="docks/uml.PNG" width="200"/>
+    <p float='center'>
+        <img src ="docks/UML.PNG" width="200"/>
     </p>
 </div>
 
 ## Relational database structure
 
 <div style="text-align:center">
-    <p float='left'>
+    <p float='center'>
         <img src ="docks/database.PNG" width="200"/>
     </p>
 </div>
